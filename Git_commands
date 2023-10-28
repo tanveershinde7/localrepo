@@ -38,4 +38,21 @@ PULL COMMAND
 
 (used to fetch and download content from a remote repo and immediately update the local repo to match that content)
 
+UNDOING CHANGES
 
+Case 1: staged changes
+
+        1) git reset file_name
+
+        2) git reset
+
+Case 2: Commited changes (for one commit)
+        1) git reset HEAD-1
+
+Case 3: Commited changes (for many commits)
+        git reset <-commit hash->
+        git reset --hard <-commit hash->FORK
+
+FORK        
+Fork is a rough copy
+                    
