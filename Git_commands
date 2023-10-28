@@ -1,0 +1,27 @@
+GIT WORKFLOW
+1)create Github Repository
+
+2)git clone (to clone github repository into local system)
+
+3)Add changes
+
+4)git status (to check git status)
+
+4)git add .  (to add all the changes) 
+
+5)git commit -m "comment" (to add comment or msg of changes)
+
+6)git push origin main (to push changes to github)
+
+7)clear (to clear terminal)
+
+GIT BRANCH COMMANDS
+1)git branch (to check branch)
+
+2)git branch -M branch_name (to rename branch)
+
+3)git checkout branch_name (to navigate)
+
+4)git checkout -b new_branch_name (to create new branch)
+
+5)git branch -d branch_name (to delete branch name)
