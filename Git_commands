@@ -53,6 +53,6 @@ Case 3: Commited changes (for many commits)
         git reset <-commit hash->
         git reset --hard <-commit hash->FORK
 
-FORK        
+FORK
 Fork is a rough copy
                     
