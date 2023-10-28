@@ -38,4 +38,5 @@ PULL COMMAND
 
 (used to fetch and download content from a remote repo and immediately update the local repo to match that content)
 
-
+FORK
+Fork is a rough copy
